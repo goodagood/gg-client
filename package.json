@@ -1,0 +1,25 @@
+{
+  "name": "gg-client",
+  "version": "0.1.0",
+  "description": "Upload file from command line to goodogood/goodagood.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "goodogood",
+    "goodagood",
+    "file_upload"
+  ],
+  "author": "andrew",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.65.0",
+    "underscore": "^1.8.3"
+  },
+  "license": "GPL",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3"
+  }
+}
